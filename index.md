@@ -5,12 +5,12 @@ You can use the [editor on GitHub](https://github.com/kahlma/kahlma.github.io/ed
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=jU1Kl2e08wM" frameborder="0" allowfullscreen></iframe>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
+<iframe width="420" height="315" src="https://www.youtube.com/watch?v=jU1Kl2e08wM" frameborder="0" allowfullscreen></iframe>
 
 # Header 1
 ## Header 2

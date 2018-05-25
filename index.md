@@ -10,7 +10,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=jU1Kl2e08wM" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/watch?v=jU1Kl2e08wM" frameborder="0"></iframe>
 
 # Header 1
 ## Header 2
